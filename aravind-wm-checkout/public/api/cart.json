@@ -1,0 +1,22 @@
+{
+  "cartItem": {
+    "itemId": 10345,
+    "subtotal": 102.96,
+    "total": 108.03,
+    "taxes": 8.92,
+    "shipping": 3.85,
+    "pickupInStore": true,
+    "qty": 1,
+    "savings": 0,
+    "discountApplied": null
+  },
+  "itemDetails": {
+    "id": 10345,
+    "name": "Essentials by OCFM ESS-3085 Racing Style leather gaming chair",
+    "image": "red-chair.jpeg",
+    "options": { "color": "Red" },
+    "discountCode": "discount",
+    "discountAmount": "10%",
+    "price": 102.96
+  }
+}
